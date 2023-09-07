@@ -1,7 +1,7 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "Theme Park Tycoon 2 | Key System",
+   Name = "Theme Park Tycoon 2 ",
    LoadingTitle = "Loading...",
    LoadingSubtitle = "by Milku",
    ConfigurationSaving = {
